@@ -1,0 +1,44 @@
+2020-08-13 23:54:28,730 INFO  [log] firstname is Yogita
+2020-08-13 23:54:28,732 INFO  [log] found
+2020-08-13 23:54:46,274 INFO  [log] firstname is junghare
+2020-08-13 23:54:46,275 INFO  [log] failed
+2020-08-13 23:54:48,372 INFO  [log] 2 and 3
+2020-08-13 23:54:48,384 INFO  [log] nilesh@gmail.com
+2020-08-13 23:54:48,386 INFO  [log] nilesh
+2020-08-13 23:54:48,387 INFO  [log] nilesh
+2020-08-13 23:54:48,388 INFO  [log] junghare
+2020-08-13 23:54:48,389 INFO  [log] junghare
+2020-08-13 23:54:49,582 INFO  [log] firstname is junghare
+2020-08-13 23:54:49,583 INFO  [log] failed
+2020-08-13 23:54:51,491 INFO  [log] Status: FINISHED, time taken for TestCase was: 2997 ms
+2020-08-13 23:54:51,512 INFO  [log] Number of test steps which ran: 5
+2020-08-13 23:54:51,931 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <CUSTOMERS.EMAIL>yogita7@gmail.com</CUSTOMERS.EMAIL>
+            <CUSTOMERS.FIRSTNAME>Yogita7</CUSTOMERS.FIRSTNAME>
+            <CUSTOMERS.LASTNAME>Junghare7</CUSTOMERS.LASTNAME>
+        </Row>
+        <Row rowNumber="2">
+            <CUSTOMERS.EMAIL>yogita8@gmail.com</CUSTOMERS.EMAIL>
+            <CUSTOMERS.FIRSTNAME>Yogita8</CUSTOMERS.FIRSTNAME>
+            <CUSTOMERS.LASTNAME>Junghare8</CUSTOMERS.LASTNAME>
+        </Row>
+        <Row rowNumber="3">
+            <CUSTOMERS.EMAIL>yogita9@gmail.com</CUSTOMERS.EMAIL>
+            <CUSTOMERS.FIRSTNAME>Yogita9</CUSTOMERS.FIRSTNAME>
+            <CUSTOMERS.LASTNAME>Junghare9</CUSTOMERS.LASTNAME>
+        </Row>
+    </ResultSet>
+</Results>
+
+2020-08-13 23:54:51,979 INFO  [log] 3
+2020-08-13 23:54:51,991 INFO  [log] email: yogita7@gmail.com
+2020-08-13 23:54:51,991 INFO  [log] firstname: Yogita7
+2020-08-13 23:54:51,992 INFO  [log] lastname: Junghare7
+2020-08-13 23:54:51,999 INFO  [log] email: yogita8@gmail.com
+2020-08-13 23:54:52,001 INFO  [log] firstname: Yogita8
+2020-08-13 23:54:52,002 INFO  [log] lastname: Junghare8
+2020-08-13 23:54:52,013 INFO  [log] email: yogita9@gmail.com
+2020-08-13 23:54:52,013 INFO  [log] firstname: Yogita9
+2020-08-13 23:54:52,014 INFO  [log] lastname: Junghare9
